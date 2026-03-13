@@ -9,7 +9,7 @@ import program2 from "../assets/program2.png";
 import trainer1 from "../assets/trainer1.png";
 import trainer2 from "../assets/trainer2.png";
 
-import gymFloor from '../assets/gymFloor.jpg';
+import gymFloor from '../assets/gymfloor.jpg';
 import recoverySuite from '../assets/recoverySuite.jpg';
 import biometricLab from '../assets/biometricLab.jpg';
 import functionalZone from '../assets/functionalZone.jpg';  
